@@ -100,10 +100,11 @@ To contribute, learn, and grow within a dynamic team working on cutting-edge AI 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedahamedali2521&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=syedahamedali2521&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedahamedali2521&layout=compact&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=syedahamedali2521&layout=compact&theme=tokyonight)
 
 
 </div>
