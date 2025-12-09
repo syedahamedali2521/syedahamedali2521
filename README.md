@@ -9,10 +9,10 @@
 
 ---
 
-## 🔢 Visitor Count
+## 👀 Total Profile Visits 👀
 
 <p align="center">
-  <img src="https://vbr.nathanchung.dev/badge?page_id=syedahamedali2521.profile_readme&color=blue" alt="Visitors Badge"/>
+  <img src="https://profile-counter.glitch.me/syedahamedali2521/count.svg" />
 </p>
 
 ---
@@ -126,4 +126,5 @@ I love experimenting with **Agentic AI pipelines** and building intuitive **AI d
 > *“The future belongs to those who build intelligent systems today.”*
 
 ---
+
 
