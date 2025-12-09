@@ -8,11 +8,9 @@
 </p>
 
 ---
-
 ## 👀 Total Profile Visits 👀
-
 <p align="center">
-  <img src="https://profile-counter.glitch.me/syedahamedali2521/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=syedahamedali2521&color=blueviolet&style=flat&label=PROFILE+VIEWS" />
 </p>
 
 ---
