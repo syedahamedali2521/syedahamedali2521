@@ -12,7 +12,7 @@
 ## 👀 Total Profile Visits 👀
 
 <p align="center">
-  <img src="https://pokemon-counter.onrender.com/syedahamedali2521" />
+  <img src="https://profile-counter.glitch.me/syedahamedali2521/count.svg" />
 </p>
 
 ---
