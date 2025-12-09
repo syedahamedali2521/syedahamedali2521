@@ -12,8 +12,9 @@
 ## 👀 Total Profile Visits 👀
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/syedahamedali2521/count.svg" />
+  <img src="https://count.getloli.com/get/@syedahamedali2521?theme=rule34" />
 </p>
+
 
 ---
 
