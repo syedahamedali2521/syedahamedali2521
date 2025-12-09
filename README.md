@@ -12,9 +12,8 @@
 ## 👀 Total Profile Visits 👀
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@syedahamedali2521?theme=rule34" />
+  <img src="https://pokemon-counter.onrender.com/syedahamedali2521" />
 </p>
-
 
 ---
 
