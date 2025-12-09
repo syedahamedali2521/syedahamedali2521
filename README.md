@@ -10,7 +10,7 @@
 ---
 ## 👀 Total Profile Visits 👀
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syedahamedali2521&color=blueviolet&style=flat&label=PROFILE+VIEWS" />
+  <img src="https://count.getloli.com/get/@syedahamedali2521?theme=moeboy" />
 </p>
 
 ---
