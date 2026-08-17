@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Syed+Ahamed+Ali&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI+%26+Machine+Learning+Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/apitype=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Syed+Ahamed+Ali&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI+%26+Machine+Learning+Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Generative+AI+%7C+NLP+%7C+Agentic+Systems;Building+intelligent+systems+that+solve+real+problems;Final-Year+B.Tech+AI+%26+ML+%40+NRI+Institute+of+Technology" alt="Typing SVG" />
 
