@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg">
   <img src="./banner.svg" alt="Animated GitHub profile banner for Syed Ahamed Ali" width="100%">
 </picture>
 
