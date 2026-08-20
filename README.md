@@ -115,6 +115,7 @@ class SyedAhamedAli:
   <a href="https://github.com/syedahamedali2521"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"></a>
   <a href="https://in.linkedin.com/in/syed-ahamed-ali"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"></a>
   <a href="mailto:ahamedalisyed8@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20build-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+   <a href="https://www.instagram.com/intro_ahamed.2521/?hl=en"><img src="https://img.shields.io/badge/Instagram-e879f9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 <div align="center">
