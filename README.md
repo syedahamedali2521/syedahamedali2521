@@ -85,10 +85,10 @@ class SyedAhamedAli:
 
 | Project | Stack | What it does |
 |---|---|---|
-| [🎬 Movie Recommendation System](https://github.com/syedahamedali2521/movie_recommender) | Python · Scikit-learn · Pandas · NLP · Streamlit | Hybrid collaborative + content-based recommendation engine with an interactive UI. |
-| [📝 Text Summarizer](https://github.com/syedahamedali2521/text_summarizer) | Python · BART/T5 · Transformers · Streamlit | Abstractive summarization pipeline with a clean Streamlit experience. |
-| 🧩 All-in-One Web App Suite | React · JavaScript · APIs | A practical collection of web utilities and application flows built during web-development work. |
-| 🤖 Agentic AI Interview Analyzer | Python · OpenCV · DeepFace · n8n | Multi-agent interview analysis concept combining visual/emotion signals with workflow automation. |
+| [🚦 Night-time Traffic Violation Detection](https://github.com/syedahamedali2521/Night-time-Traffic-Violation-Detection) | Python · YOLOv8 · OpenCV · Deep Learning · Computer Vision | Detects traffic violations in low-light/night-time conditions using deep learning and computer vision techniques. |
+| [🤖 Code Review Assistant](https://github.com/syedahamedali2521/Code-Review-Assistant) | Python · AI · NLP · Streamlit | AI-powered assistant designed to analyze source code, identify potential issues, and provide useful code-review feedback. |
+| [📝 Text Summarizer](https://github.com/syedahamedali2521/text_summarizer) | Python · BART/T5 · Transformers · NLP · Streamlit | Abstractive text summarization application using transformer-based NLP models with an interactive Streamlit interface. |
+| [💰 Expense Tracker](https://github.com/syedahamedali2521/Expense-Tracker) | Python · Streamlit · Pandas · Data Visualization | Interactive expense management application for tracking spending, importing/exporting data, and visualizing financial insights. |
 
 ## 🏆 What I'm Building Toward
 
